@@ -1,4 +1,4 @@
-# finoyes
+# finoyes - https://finoyes.github.io/portfolio_adv/
 
 ![GitHub stats for finoyes](https://github-readme-stats-seven-black-76.vercel.app/api?username=finoyes&theme=github_dark&hide=contribs&show_icons=true)
 
