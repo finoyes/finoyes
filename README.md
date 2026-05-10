@@ -20,3 +20,6 @@
 
 * [**ReadMe generator**](https://github.com/finoyes/readme_generator)
 * Transforms minimal project descriptions into comprehensive, professional README files using AI.
+
+* [**Image generator with CUDA**](https://github.com/finoyes/imagegenCUDA) ![Status: In Development](https://img.shields.io/badge/status-in%20development-orange)
+* A CNN ML model which buil with Nvidia's CUDA to use GPU's parallel computing power to boost performance.
