@@ -3,7 +3,7 @@
 <!-- Profile Details (full-width, centered) -->
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushTNM&theme=transparent"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=finoyes&theme=transparent"
     alt="Profile Summary Card" />
 </p>
  
