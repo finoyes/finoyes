@@ -1,6 +1,14 @@
 # finoyes - https://finoyes.github.io/portfolio_adv/
 
-![GitHub stats for finoyes](https://github-readme-stats-seven-black-76.vercel.app/api?username=finoyes&theme=github_dark&hide=contribs&show_icons=true)
+<!-- Profile Details (full-width, centered) -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushTNM&theme=transparent"
+    alt="Profile Summary Card" />
+</p>
+ 
+
+<!-- ![GitHub stats for finoyes](https://github-readme-stats-seven-black-76.vercel.app/api?username=finoyes&theme=github_dark&hide=contribs&show_icons=true) -->
 
 ![Top languages used by finoyes](https://github-readme-stats-seven-black-76.vercel.app/api/top-langs/?username=finoyes&theme=github_dark&layout=compact)
 
