@@ -31,3 +31,5 @@
 
 * [**Image generator with CUDA**](https://github.com/finoyes/imagegenCUDA) ![Status: In Development](https://img.shields.io/badge/status-in%20development-orange)
 * A transformer ML model which is built with Nvidia's CUDA to use GPU's parallel computing power to boost performance.
+
+[![My Website Preview](https://finoyes.github.io/portfolio_adv/)](https://finoyes.github.io/portfolio_adv/)
