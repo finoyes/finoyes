@@ -26,7 +26,7 @@
 * [**DripUp**](https://github.com/finoyes/Dripup)
 * A deal aggregator for fashion brands, combining Flutter UI with Python backend scraping.
 
-* [**ReadMe generator**](https://github.com/finoyes/readme_generator)
+* [**Vastu Pad Mandal**](https://github.com/finoyes/vastupadmandal)
 * Transforms minimal project descriptions into comprehensive, professional README files using AI.
 
 * [**Image generator with CUDA**](https://github.com/finoyes/imagegenCUDA) ![Status: In Development](https://img.shields.io/badge/status-in%20development-orange)
